@@ -2,7 +2,6 @@ from forex_python.bitcoin import BtcConverter
 from tkinter import *
 from datetime import date, datetime, time
 import calendar
-import math
 
 """
 Function Code
